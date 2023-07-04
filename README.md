@@ -3,7 +3,7 @@
 :construction: Proyecto en construcción :construction:
 <p>Aplicación que convierte tanto valores de diferentes monedas como valores de diferentes temperaturas. Esta hecha en java con interfaces gráficas hechas con la ayuda de la librería de Swing.</p>
 
-## :hammer:Funcionalidades del proyecto
+## <h1 align="center">:hammer:Funcionalidades del proyecto </h1>
 - `Funcionalidad 1`: Convertir pesos mexicanos a diferentes monedas extranjeras-
 - `Funcionalidad 2`: Convertir el valor de una temperatura a su equivalente en otra temperatura- 
 
