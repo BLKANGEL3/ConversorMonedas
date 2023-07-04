@@ -9,7 +9,7 @@
 
 ## 📁 Acceso al proyecto
 
-<p>El proyecto no esta en ningún alojamiento web, por lo tanto para ejecutartarlo se tiene que descargar los archivos desde el tag más actual o el de su preferencia.</p>
+<p>El proyecto no esta en ningún alojamiento web, por lo tanto para ejecutarlo se tiene que descargar los archivos desde el tag más actual o el de su preferencia.</p>
 
 ## 🛠️ Abre y ejecuta el proyecto
 
