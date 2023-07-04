@@ -1,9 +1,9 @@
 <h1 align="center"> Conversor de Monedas </h1>
 
-:construction: Proyecto en construcción :construction:
+<h1>:construction: Proyecto en construcción :construction:</h1>
 <p>Aplicación que convierte tanto valores de diferentes monedas como valores de diferentes temperaturas. Esta hecha en java con interfaces gráficas hechas con la ayuda de la librería de Swing.</p>
 
-## <h1 align="center">:hammer:Funcionalidades del proyecto </h1>
+##:hammer:Funcionalidades del proyecto
 - `Funcionalidad 1`: Convertir pesos mexicanos a diferentes monedas extranjeras-
 - `Funcionalidad 2`: Convertir el valor de una temperatura a su equivalente en otra temperatura- 
 
