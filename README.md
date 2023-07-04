@@ -1,6 +1,8 @@
 <h1 align="center"> Conversor de Monedas </h1>
 
-:construction: <h2>Proyecto en construcción</h2> ::construction
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
 <p>Aplicación que convierte tanto valores de diferentes monedas como valores de diferentes temperaturas. Esta hecha en java con interfaces gráficas hechas con la ayuda de la librería de Swing.</p>
 
 :hammer:Funcionalidades del proyecto
